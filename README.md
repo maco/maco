@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **maco/maco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Employment
+Some of my better-known former employers include The Washington Post and Cisco. I've also spent some time in startups. 
+
+## Open Source
+For several years, I was involved in Ubuntu development. Mainly, that meant QA, bug wrangling, and packaging releases. In that time, I submitted upstream patches to GNOME, KDE, and the Linux kernel. For a short while, I was on the board that decided who could have commit access.
+
+Later, while learning Ruby on Rails, I became a maintainer on Growstuff and contributed to Spree.   
