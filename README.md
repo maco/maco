@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Employment
-Some of my better-known former employers include The Washington Post and Cisco. I've also spent some time in startups. 
+I spent a while working on build systems for firewalls at Sourcefire/Cisco before moving back into web development. Newspapers have been a recurring thing: previously at The Washington Post, and now at Axios.
 
 ## Open Source
 For several years, I was involved in Ubuntu development. Mainly, that meant QA, bug wrangling, and packaging releases. In that time, I submitted upstream patches to GNOME, KDE, and the Linux kernel. For a short while, I was on the board that decided who could have commit access.
 
-Later, while learning Ruby on Rails, I became a maintainer on Growstuff and contributed to Spree.   
+Later, while learning Ruby on Rails, I became a maintainer on Growstuff and contributed to Spree. Nowadays, I'm using Elixir as my primary language.  
