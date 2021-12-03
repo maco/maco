@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Advent of Code (in Elixir)
 - 🌱 I’m currently learning Erlang
 - 👯 I’m looking to collaborate on open source projects in Elixir
-- - 📫 How to reach me: probably Twitter
+- 📫 How to reach me: probably Twitter
 - 😄 Pronouns: she/her
 
 ## Employment
